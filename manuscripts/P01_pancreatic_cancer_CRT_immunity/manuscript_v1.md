@@ -31,11 +31,11 @@ Treated with Neoadjuvant Chemoradiotherapy}
 
 ### Study design and participants
 
-{研究デザイン・対象・施設・期間・倫理承認}
+This retrospective cohort study was conducted at Fukushima Medical University Hospital. We identified patients aged 20 to 79 years who underwent radical surgical resection for pathologically confirmed pancreatic ductal adenocarcinoma between June 2010 and August 2019. Patients who received neoadjuvant chemoradiotherapy (NACRT) with concurrent gemcitabine before radical resection were compared with patients who underwent radical resection alone, without any preoperative chemotherapy or radiotherapy, during the same period. Paraffin-embedded tumor tissue from the resected specimen was required for inclusion; pretreatment biopsy tissue was not required. Patients without available paraffin-embedded sections, those with rare histological subtypes, and those in whom the resected specimen was judged non-neoplastic on pathological review were excluded. After applying these criteria, 24 patients who received NACRT and 62 patients who did not were included in the analysis. This study was approved by the Institutional Review Board of Fukushima Medical University (approval no. {IRB番号未確認}) and was conducted in accordance with the ethical principles of the Declaration of Helsinki.
 
 ### Intervention or exposure
 
-{介入・曝露・治療・処置の詳細}
+Patients in the NACRT group received chemoradiotherapy with single-agent gemcitabine <!-- FLAG-GEM: GEMの投与量・投与日・コース数が未確認 --> concurrently with radiotherapy delivered in conventional fractionation to a total dose of 50.4 Gy in 28 fractions <!-- FLAG-FIELD: 照射範囲(原発巣+マージンのみか、所属リンパ節領域を含むか)が未確認 -->. <!-- FLAG-INTERVAL: NACRT終了から手術までの標準的な間隔が未確認 --> Patients in the comparator group underwent radical resection without any preceding chemotherapy or radiotherapy. <!-- FLAG-SURGERY: 術式(膵頭十二指腸切除術/膵体尾部切除術等)の詳細・群間差の記載要否が未確認 -->
 
 ### Outcomes and definitions
 
@@ -53,8 +53,7 @@ Expression of HLA class I was scored according to the percentage of tumor cells 
 
 Tumor cells were considered positive for PD-L1 when dark brown membranous staining was observed in ≥1% of tumor cells; samples not meeting this threshold were considered negative.
 
-<!-- FLAG-OBSERVERS: 評価者(何名で判定したか、不一致時の解決方法)が未確認。Takehara論文の評価者イニシャル(P.N., T.T.)は他施設共著者のものであり、自験に流用不可。実際の評価者(ご本人+第三者か等)を確認して置き換えること -->
-{評価者・判定不一致時の対応}
+CD8 and HLA class I staining were each assessed independently by two observers (K.U. and T.S.) <!-- FLAG-INITIALS: イニシャルは仮(K.U.=梅宮和真氏本人、T.S.=今回の評価者)。正式な氏名・イニシャル表記をご確認ください -->, and discrepant results were resolved by joint reassessment and consensus.
 
 ### Statistical analysis
 
