@@ -71,7 +71,7 @@ CD8 and HLA class I staining were each assessed independently by two observers (
 
 Continuous and ordinal variables, including the number of CD8+ cells and the HLA class I expression score, were compared between the NACRT and comparator groups using the Mann-Whitney U test; results are reported as medians with 95% confidence intervals estimated by bootstrap resampling (10,000 iterations). Categorical variables, including patient background characteristics, PD-L1 positivity, and the dichotomized HLA class I expression (score 0–2 versus 3–4), were compared using Fisher's exact test. A two-sided p-value of <0.05 was considered statistically significant. Statistical analyses were performed using Python <!-- FLAG-VERSION: Python本体・pandas・SciPy・NumPy等のバージョン番号が未確認 --> with the pandas, SciPy, and NumPy libraries.
 
-<!-- FLAG-SURVIVAL: 生存解析(Kaplan-Meier法・log-rank検定など)を本論文のスコープに含めるか未確認。研究計画書には予後(生存期間・無再発生存期間・局所制御期間)も観察項目として含まれているが、これまでの議論はCD8・HLA・PD-L1の群間比較のみに焦点を当ててきた -->
+<!-- [方針決定 2026-09-04] 生存解析(Kaplan-Meier法・log-rank検定など)は本論文のスコープに含めない。研究計画書には予後(生存期間・無再発生存期間・局所制御期間)も観察項目として含まれているが、本論文はCD8・HLA class I・PD-L1の群間比較に絞って報告する。Limitationsで「予後との関連は本研究では検討していない」旨に触れるかは別途判断。 -->
 
 ---
 
