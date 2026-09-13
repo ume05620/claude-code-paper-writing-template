@@ -61,7 +61,9 @@ Sections were then incubated overnight at 4°C for 16 h with the following prima
 
 For assessment of CD8+ tumor-infiltrating lymphocytes, hotspot areas of tumor-infiltrating lymphocytes were selected in four independent fields within the intratumoral region and the invasive front of each surgically resected specimen at ×200 magnification, and the mean number of CD8+ cells across the four fields was calculated using Patholoscope version 1.8.0 (MITANI Co., Fukui, Japan).
 
-Expression of HLA class I was scored according to the percentage of tumor cells showing positive membranous staining, using the same five-tier scoring system applied in our institution's previous work on the tumor immune microenvironment {Takehara_37772585}: 0, 0%; 1, 1–9%; 2, 10–49%; 3, 50–79%; and 4, >80%.
+Expression of HLA class I was scored according to the percentage of tumor cells showing positive membranous staining, using the same five-tier scoring system applied in our institution's previous work on the tumor immune microenvironment {Takehara_37772585}: 0, <1%; 1, 1–9%; 2, 10–49%; 3, 50–79%; and 4, ≥80%.
+
+<!-- [方針決定 2026-09-14] Takehara 2023の原文表記(0, 0%; ... 4, >80%)は整数前提で、0〜1%の間とちょうど80%が定義から漏れる。本研究は視野平均(小数)をスコア化しており、平均ちょうど80%の症例が1例実在するため、解析コード(v20250211以降: x<1→0, <10→1, <50→2, <80→3, <100→4)に合わせて「<1%」「≥80%」と表記する。区分自体はTakeharaと同一。 -->
 
 Tumor cells were considered positive for PD-L1 when dark brown membranous staining was observed in ≥1% of tumor cells; samples not meeting this threshold were considered negative.
 
