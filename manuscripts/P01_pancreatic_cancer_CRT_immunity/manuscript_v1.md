@@ -13,7 +13,7 @@ Treated with Neoadjuvant Chemoradiotherapy}
 
 **Background**: {メモ: ICIを含む集学的治療への理解を深める必要性を述べる}
 
-**Methods**: {メモ: 後方視的研究 / 症例数(NACRT群24例・対照群62例) / 福島県立医科大学附属病院 / 群分け(NACRT群 vs 手術単独群) / 化学療法の内容(GEM単剤)と放射線の線量分割(50.4 Gy/28 fr) / IHCで評価した分子(CD8, HLA class I, PD-L1)}
+**Methods**: {メモ: 後方視的研究 / 症例数(NACRT群24例・対照群62例) / 福島県立医科大学附属病院 / 群分け(NACRT群 vs 手術単独群) / 化学療法の内容(GEM単剤)と放射線の線量分割(54 Gy/30 fr) / IHCで評価した分子(CD8, HLA class I, PD-L1)}
 
 **Results**: {略 — 後で記入}
 
@@ -47,25 +47,27 @@ This retrospective cohort study was conducted at Fukushima Medical University Ho
 
 ### Intervention or exposure
 
-Patients in the NACRT group received chemoradiotherapy with single-agent gemcitabine, following the neoadjuvant chemoradiotherapy regimen recommended at the time of treatment. Radiotherapy was delivered concurrently in conventional fractionation to a total dose of 50.4 Gy in 28 fractions, encompassing the primary tumor with a margin and the regional lymph node area. Patients in the comparator group underwent radical resection without any preceding chemotherapy or radiotherapy.
+Patients in the NACRT group received chemoradiotherapy with single-agent gemcitabine, following the neoadjuvant chemoradiotherapy regimen recommended at the time of treatment. Radiotherapy was delivered concurrently with gemcitabine in conventional fractionation to a total dose of 54 Gy in 30 fractions, encompassing the primary tumor with a margin and the regional lymph node area. Patients in the comparator group underwent radical resection without any preceding chemotherapy or radiotherapy.
+
+<!-- [方針決定 2026-09-15] 線量は54 Gy/30 frで確定(梅宮さん)。8/25に一度50.4 Gy/28 frとしていたが変更。2025/2/14報告スライドの「すべて50.4Gy/28fr」とは異なるので、発表資料と照合される場合は注意。 -->
 
 ### Outcomes and definitions
 
 #### Immunohistochemical staining
 
-Formalin-fixed, paraffin-embedded surgical specimens were cut into 4-μm-thick sections and deparaffinized according to routine procedures. Antigen retrieval conditions were optimized separately for each marker. For CD8, sections were heated in Target Retrieval Solution (pH 9.0; Agilent Technologies, Santa Clara, CA, USA) at 100°C for 20 min. For HLA class I, sections were autoclaved in citrate buffer (pH 6.0) at 121°C for 10 min and allowed to cool at room temperature for 1 h. For PD-L1, sections were autoclaved in Target Retrieval Solution (pH 9.0; Agilent Technologies) at 120°C for 10 min. After retrieval, sections were rinsed in deionized water and washed in phosphate-buffered saline (PBS). Endogenous peroxidase activity was blocked with 3% hydrogen peroxide for 15 min.
+Formalin-fixed, paraffin-embedded surgical specimens were cut into 4-μm-thick sections and deparaffinized according to routine procedures. Antigen retrieval conditions were optimized separately for each marker. For CD8, sections were heated in Target Retrieval Solution (pH 9.0; Agilent Technologies, Santa Clara, CA, USA) at 100°C for 20 minutes. For HLA class I, sections were autoclaved in citrate buffer (pH 6.0) at 121°C for 10 minutes and allowed to cool at room temperature for 1 hour. For PD-L1, sections were autoclaved in Target Retrieval Solution (pH 9.0; Agilent Technologies) at 120°C for 10 minutes. After retrieval, sections were rinsed in deionized water and washed in phosphate-buffered saline (PBS). Endogenous peroxidase activity was blocked with 3% hydrogen peroxide for 15 minutes.
 
-Sections were then incubated overnight at 4°C for 16 h with the following primary antibodies: anti-CD8 (1:600; clone C8/144B; Agilent Technologies), anti-HLA class I-ABC (1:400; clone EMR8-5; Hokudo, Sapporo, Japan), and anti-PD-L1 (1:400; clone E1L3N; Cell Signaling Technology, Danvers, MA, USA). For CD8 and HLA class I, an avidin-biotin-complex-labeled anti-mouse secondary antibody (VECTASTAIN ABC-HRP Kit; Vector Laboratories) was applied for 30 min at room temperature. For PD-L1, a horseradish-peroxidase-conjugated anti-rabbit polymer (Envision+ System-HRP; Agilent Technologies) was applied for 30 min at room temperature. Immunoreactivity was visualized with 3,3′-diaminobenzidine. For PD-L1, sections were counterstained with Mayer's hematoxylin for 1 min at room temperature; sections stained for CD8 and HLA class I were not counterstained, and adjacent serial sections were stained with hematoxylin and eosin (H&E) for histological reference.
+Sections were then incubated overnight at 4°C for 16 hours with the following primary antibodies: anti-CD8 (1:600; clone C8/144B; Agilent Technologies), anti-HLA class I-ABC (1:400; clone EMR8-5; Hokudo, Sapporo, Japan), and anti-PD-L1 (1:400; clone E1L3N; Cell Signaling Technology, Danvers, MA, USA). For CD8 and HLA class I, an avidin-biotin-complex-labeled anti-mouse secondary antibody (VECTASTAIN ABC-HRP Kit; Vector Laboratories) was applied for 30 minutes at room temperature. For PD-L1, a horseradish-peroxidase-conjugated anti-rabbit polymer (Envision+ System-HRP; Agilent Technologies) was applied for 30 minutes at room temperature. Immunoreactivity was visualized with 3,3′-diaminobenzidine. For PD-L1, sections were counterstained with Mayer's hematoxylin for 1 minute at room temperature; sections stained for CD8 and HLA class I were not counterstained, and adjacent serial sections were stained with hematoxylin and eosin (H&E) for histological reference.
 
 #### Evaluation of immunohistochemical staining
 
-For assessment of CD8+ tumor-infiltrating lymphocytes, hotspot areas of tumor-infiltrating lymphocytes were selected in four independent fields within the intratumoral region and the invasive front of each surgically resected specimen at ×200 magnification, and the mean number of CD8+ cells across the four fields was calculated using Patholoscope version 1.8.0 (MITANI Co., Fukui, Japan).
+For assessment of CD8+ tumor-infiltrating lymphocytes, hotspot areas of tumor-infiltrating lymphocytes were selected in four independent fields within the intratumoral region and the invasive front of each surgically resected specimen at ×200 magnification. CD8+ cells in each field were counted using Patholoscope version 1.8.0 (MITANI Co., Fukui, Japan), and the mean count across the four fields was calculated.
 
 Expression of HLA class I was scored according to the percentage of tumor cells showing positive membranous staining, using the same five-tier scoring system applied in our institution's previous work on the tumor immune microenvironment {Takehara_37772585}: 0, <1%; 1, 1–9%; 2, 10–49%; 3, 50–79%; and 4, ≥80%.
 
 <!-- [方針決定 2026-09-14] Takehara 2023の原文表記(0, 0%; ... 4, >80%)は整数前提で、0〜1%の間とちょうど80%が定義から漏れる。本研究は視野平均(小数)をスコア化しており、平均ちょうど80%の症例が1例実在するため、解析コード(v20250211以降: x<1→0, <10→1, <50→2, <80→3, <100→4)に合わせて「<1%」「≥80%」と表記する。区分自体はTakeharaと同一。 -->
 
-Tumor cells were considered positive for PD-L1 when dark brown membranous staining was observed in ≥1% of tumor cells; samples not meeting this threshold were considered negative.
+Specimens were considered PD-L1-positive when dark brown membranous staining was observed in >1% of tumor cells; all other specimens were considered negative.
 
 CD8 and HLA class I staining were each assessed independently by two observers (K.U. and T.S.) <!-- FLAG-INITIALS: イニシャルは仮(K.U.=梅宮和真氏本人、T.S.=今回の評価者)。正式な氏名・イニシャル表記をご確認ください -->, and discrepant results were resolved by joint reassessment and consensus.
 
