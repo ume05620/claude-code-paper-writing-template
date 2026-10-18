@@ -1,0 +1,20 @@
+Nat Rev Clin Oncol. 2023;20(5):318-337. doi: 10.1038/s41571-023-00746-1.
+
+Neoadjuvant therapy for pancreatic cancer.
+
+Springfeld C, et al.
+
+PMID: 36932224
+
+[Source note: abstract and key points pasted by the first author (K.U.) from the journal page on 2026-10-18. Full text not yet obtained (document delivery requested). Bibliographic data verified on PubMed.]
+
+Abstract
+Patients with localized pancreatic ductal adenocarcinoma (PDAC) are best treated with surgical resection of the primary tumour and systemic chemotherapy, which provides considerably longer overall survival (OS) durations than either modality alone. Regardless, most patients will have disease relapse owing to micrometastatic disease. Although currently a matter of some debate, considerable research interest has been focused on the role of neoadjuvant therapy for all forms of resectable PDAC. Whilst adjuvant combination chemotherapy remains the standard of care for patients with resectable PDAC, neoadjuvant chemotherapy seems to improve OS without necessarily increasing the resection rate in those with borderline-resectable disease. Furthermore, around 20% of patients with unresectable non-metastatic PDAC might undergo resection following 4–6 months of induction combination chemotherapy with or without radiotherapy, even in the absence of a clear radiological response, leading to improved OS outcomes in this group. Distinct molecular and biological responses to different types of therapies need to be better understood in order to enable the optimal sequencing of specific treatment modalities to further improve OS. In this Review, we describe current treatment strategies for the various clinical stages of PDAC and discuss developments that are likely to determine the optimal sequence of multimodality therapies by integrating the fundamental clinical and molecular features of the cancer.
+
+Key points
+- Surgical resection of the primary tumour and adjuvant systemic combination chemotherapy is the most effective treatment for pancreatic cancer.
+- Three surgical stages have emerged for the preoperative assessment of non-metastatic pancreatic cancers: resectable, borderline-resectable and unresectable.
+- In patients with resectable pancreatic cancer who are able to receive adjuvant chemotherapy (usually for 6 months), 5-year overall survival (OS) of 30–50% can be expected.
+- In patients with borderline-resectable disease, the addition of a short course of neoadjuvant therapy (usually for 2 months) prior to surgery (with R0/R1 resection rates of 64–85%) increases 12-month OS to around 77%, compared with 40% for upfront surgery (with a resection rate of 75%); a longer course of neoadjuvant chemotherapy (usually for 4 months) can lead to an 18-month OS of 67%.
+- Selected patients with initially locally advanced, unresectable non-metastatic pancreatic cancer might become eligible for resection following 4–6 months of induction chemotherapy, with or without radiotherapy (with macroscopic resection rates as high as 20–40%), with improved OS compared with those who do not undergo resection.
+- The development of new neoadjuvant and induction strategies needs to integrate the distinct molecular and biological characteristics of the various pancreatic cancer subgroups to optimize the selection and sequencing of both established and novel treatment modalities in order to improve survival outcomes.
