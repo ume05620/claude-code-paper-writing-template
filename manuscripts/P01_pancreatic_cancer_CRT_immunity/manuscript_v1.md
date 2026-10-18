@@ -47,6 +47,12 @@ This retrospective cohort study was conducted at Fukushima Medical University Ho
 
 <!-- [教授修正 2026-09-25] 鈴木教授の修正で、選択基準・除外基準の文章と群間比較の文は削除され、「全部で・・人、組織が得られなかった人・・人、経過が追えない人・・人、合計で86人」の形に置き換える指示。群の定義は人数の文に群名(NACRT群/手術単独群)を入れて示す方針(梅宮さん)。中間報告(2025/2)では除外前106例(NACRT 26・手術単独 80)→最終86例(24/62)で、除外20例(2/18)の理由別内訳は記録なし。「経過が追えない人」は本研究(生存解析なし)の除外基準には使っていないので、実際に該当者がいたか要確認。 -->
 
+<!-- [調査結果 2026-10-18] 切除症例データベース(106例)と症例対応表(87例)を照合。
+106例 → 対応表作成前に19例除外: 術前治療の内容が異なる8例(化学療法のみ5、導入化学療法+CRT 1、免疫療法併用2)、稀な組織型3例(IPMN由来浸潤癌2、ITPN 1)、DB上は理由不明8例(術前治療なし7、GEM+RT 1。パラフィン・組織の問題か、病理記録で要確認)。
+対応表87例(NA 24 / SF 63) → NA018は組織型がPDACでなかったため除外(梅宮さん確認)、SF055はカルテでNACRT(GEM+RT)と確認(DBの「術前治療なし」は誤記、解析CSVの記載が正しい) → 解析86例(NACRT 24 / 手術単独 62)。
+SF群の約60例は時期で区切った結果ではなく、症例ごとの除外の結果(理由不明7例は期間全体に散在)。
+未解決: (1)理由不明8例の除外理由 (2)SF群のうちDB上80歳以上の12例(研究計画書は初診時80歳未満) → カルテで生年月日を確認中。Methodsの "aged 20 to 79 years" の扱いはこの結果で決める。 -->
+
 ### Treatment
 
 Patients in the NACRT group received chemoradiotherapy with single-agent gemcitabine. Radiotherapy was delivered concurrently with gemcitabine in conventional fractionation to a total dose of 54 Gy in 30 fractions, encompassing the primary tumor with a margin and the regional lymph node area. Patients in the comparator group underwent radical resection without any preceding chemotherapy or radiotherapy.
