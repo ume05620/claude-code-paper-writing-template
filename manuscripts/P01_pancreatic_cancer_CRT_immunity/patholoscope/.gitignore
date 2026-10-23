@@ -1,0 +1,7 @@
+# 研究データとメーカーの著作物は git 管理外
+manual/*
+images/*
+results/*
+!manual/.gitkeep
+!images/.gitkeep
+!results/.gitkeep
