@@ -18,6 +18,7 @@
 - 計測ソフト: Patholoscope ver 1.8.0(MITANI Corporation, Fukui, Japan)。Methodsに記載済み。
 - 計測条件(Methods): ホットスポット4視野、×200、CD8陽性細胞数を視野ごとに計測し平均。
 - 第二評価者はPython環境なし。自動化はPatholoscope本体の機能か、Windows標準の範囲で検討する。
+- Patholoscopeは専用のUSBライセンスキーを差したPCでしか起動しない。このリポジトリのPC(梅宮さんのPC)には入っていない(2026-10-24確認)。そのため、Patholoscopeの操作・パラメータ調整はライセンスキーのあるPCで行い、ここでは手順書・設定の記録・画像の整理を担う。
 - 1人目の値・群の情報は第二評価者に見せない(独立評価)。
 
 ## 情報源
