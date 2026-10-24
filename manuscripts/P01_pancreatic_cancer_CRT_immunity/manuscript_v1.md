@@ -55,6 +55,9 @@ SF群の約60例は時期で区切った結果ではなく、症例ごとの除�
 除外理由の合計: 術前治療の内容が異なる8、組織切片が入手できない8、稀な組織型・PDACでない4(IPMN由来浸潤癌2、ITPN 1、NA018 1)。
 未解決: SF群のうちDB上80歳以上の12例(研究計画書は初診時80歳未満) → カルテで生年月日を確認中。Methodsの "aged 20 to 79 years" の扱いはこの結果で決める。 -->
 
+<!-- [判断 2026-10-24] 手術単独群に計画書の基準外の症例が14例(手術期間外2例: SF001・SF002/初診時80〜84歳の12例)。梅宮さん判断: 論文に事実と異なることは書けず、倫理委員会には終了報告済みで変更申請もできないため、手術期間外の症例は解析から除外する。年齢基準外12例の扱いは要決定(同じ理由なら除外対象。両方除外で72例: NACRT 24/手術単独 48)。詳細と残る課題は materials/(参考)対象症例の適格性_判断記録.md -->
+
+
 ### Treatment
 
 Patients in the NACRT group received chemoradiotherapy with single-agent gemcitabine. Radiotherapy was delivered concurrently with gemcitabine in conventional fractionation to a total dose of 54 Gy in 30 fractions, encompassing the primary tumor with a margin and the regional lymph node area. Patients in the comparator group underwent radical resection without any preceding chemotherapy or radiotherapy.
